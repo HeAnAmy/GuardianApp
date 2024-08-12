@@ -1,36 +1,70 @@
-# GuardianApp
+# Getting Started with Create React App
 
-_Este proyecto esta diseñado para evitar el consumo y la venta de alcohol a menores e edad, está permitira hacer ciertos reportes de establecimientos que no esten cumpliendo con las leyes y asu vez permitira que por cada reporte el usuario reciba ciertas recompensas, en esta exitn 2 tipos de usuario, usuario que tendre un perfil de invitado es decir podra hacer reportes sin la necesidad de registrase y otro que va que si tendra un perfil este podra ser creado de forma manual o bien enlazado a alguna cuenta de Google_
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Comenzando 🚀
+## Available Scripts
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+In the project directory, you can run:
 
-git clone https://github.com/HeAnAmy/GuardianApp.git
-cd tu-repositorio
+### `npm start`
 
-*Si te es mas comodo y por seguridad te sugiero clonar con SSH*
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Construido con 🛠️
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-_Este sera desarrollado _
+### `npm test`
 
-* [React]([http://www.dropwizard.io/1.0.2/docs/](https://es.react.dev/)) - El framework web usado
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-## Contribuyendo 🖇️
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Equipo ✒️
+### `npm run eject`
 
-* **Definir** - *Trabajo Inicial* - [definir](https://github.com/)
-* **Definir** - *Trabajo Inicial* - [definir](https://github.com/)
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Licencia 📄
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
----
-por [AmyHean](https://github.com/HeAnAmy) 😊
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
