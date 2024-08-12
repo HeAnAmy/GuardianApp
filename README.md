@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# GuardianApp
+_This project is designed to prevent the consumption and sale of alcohol to minors, it will allow certain reports to be made of establishments that are not complying with the laws and in turn will allow the user to receive certain rewards for each report, in this exit 2 types of user, user who will have a guest profile, that is, will be able to make reports without the need to register and another who will have a profile, it can be created manually or linked to a Google account_
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
